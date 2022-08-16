@@ -81,7 +81,26 @@
       "date": "Nov 20, 2022 9:45"
     }
        
-  ]
+  ], 
+  
+   "BestPlayer": [
+    {
+      "player": "KekingkyawZ",
+      "rank": "01"
+    },
+     {
+      "player": "GaayPotato",
+      "rank": "02"
+    },
+     {
+      "player": "Knightowls-Epsilon,
+      "rank": "03"
+    },
+     {
+      "player": "Knightowls-Zeta",
+      "rank": "04"
+    },
+   
   
   
 }
