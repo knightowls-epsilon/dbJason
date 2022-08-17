@@ -101,6 +101,75 @@
       "rank": "04"
     }
    
-  ]
+  ],
+  
+   
+   "Predictions": [
+    {
+      "question": "Is the first basket scrored 3 a pointer?",
+      "answer": "YES"
+    },
+     {
+      "player": "Will NLEX Road Warriors scores first?",
+      "rank": "NO"
+    },
+     {
+      "player": "Will TNT Tropang Giga get the first foul?",
+      "rank": "YES"
+    },
+     {
+      "player": "Will NLEX Road Warriors lead the first quarter?",
+      "rank": "NO"
+    },
+      {
+      "question": "Is the first basket scrored 3 a pointer?",
+      "answer": "YES"
+    },
+     {
+      "player": "Will NLEX Road Warriors scores first?",
+      "rank": "NO"
+    },
+     {
+      "player": "Will TNT Tropang Giga get the first foul?",
+      "rank": "YES"
+    },
+     {
+      "player": "Will NLEX Road Warriors lead the first quarter?",
+      "rank": "NO"
+    },
+     {
+      "question": "Is the first basket scrored 3 a pointer?",
+      "answer": "YES"
+    },
+     {
+      "player": "Will NLEX Road Warriors scores first?",
+      "rank": "NO"
+    },
+     {
+      "player": "Will TNT Tropang Giga get the first foul?",
+      "rank": "YES"
+    },
+     {
+      "player": "Will NLEX Road Warriors lead the first quarter?",
+      "rank": "NO"
+    },
+      {
+      "question": "Is the first basket scrored 3 a pointer?",
+      "answer": "YES"
+    },
+     {
+      "player": "Will NLEX Road Warriors scores first?",
+      "rank": "NO"
+    },
+     {
+      "player": "Will TNT Tropang Giga get the first foul?",
+      "rank": "YES"
+    },
+     {
+      "player": "Will NLEX Road Warriors lead the first quarter?",
+      "rank": "NO"
+    },
+     
+    ]
   
 }
