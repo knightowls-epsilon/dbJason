@@ -175,16 +175,17 @@
      "MyPrediction": [
     {
       "team1": "SAN MIGUEL",
-      "vs": "VS"
-      "team2": "TNT"
+      "vs": "VS",
+      "team2": "TNT",
       "date": "Fri Nov 22,2022 09:45pm"
     },
-     {
+    {
       "team1": "SAN MIGUEL",
-      "vs": "VS"
-      "team2": "TNT"
+      "vs": "VS",
+      "team2": "TNT",
       "date": "Fri Nov 22,2022 09:45pm"
     }
+       
     ]
     
   
