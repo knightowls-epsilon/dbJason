@@ -306,18 +306,6 @@
       "date": "Fri Nov 23,2022 09:45pm"
     },
      {
-      "team1": "MERALCO",
-      "vs": "VS",
-      "team2": "BRGY. GINEBRA",
-      "date": "Fri Nov 23,2022 09:45pm"
-    },
-     {
-      "team1": "SAN MIGUEL",
-      "vs": "VS",
-      "team2": "BLACKWATER",
-      "date": "Fri Nov 23,2022 09:45pm"
-    },
-        {
       "team1": "SAN MIGUEL",
       "vs": "VS",
       "team2": "TNT",
@@ -347,24 +335,25 @@
       "team2": "Kekingkyaws",
       "date": "Sat February 22, 2019 09:45pm"
     },
-        {
+    {
       "team1": "PHOENIX",
       "vs": "VS",
       "team2": "BLACKWATER",
       "date": "Fri Nov 23,2022 09:45pm"
-    },
+    }, 
      {
-      "team1": "TERRAFIRMA",
+      "team1": "MERALCO",
       "vs": "VS",
-      "team2": "CONVERGE",
+      "team2": "BRGY. GINEBRA",
       "date": "Fri Nov 23,2022 09:45pm"
     },
-      {
-        "team1": "GaayPotato",
+     {
+      "team1": "SAN MIGUEL",
       "vs": "VS",
-      "team2": "Kekingkyaws",
-      "date": "Sat February 22, 2019 09:45pm"
+      "team2": "BLACKWATER",
+      "date": "Fri Nov 23,2022 09:45pm"
     }
+
    
 
     ]
