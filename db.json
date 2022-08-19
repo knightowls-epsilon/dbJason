@@ -174,188 +174,48 @@
   
      "MyPrediction": [
     {
+      "gameStatus": "PENDING",
       "team1": "SAN MIGUEL",
       "vs": "VS",
       "team2": "TNT",
       "date": "Fri Nov 22,2022 09:45pm"
     },
-        {
+      {
+       "gameStatus": "PENDING",
       "team1": "GINEBRA",
       "vs": "VS",
       "team2": "BOLTS",
       "date": "Fri Nov 23,2022 09:45pm"
     },
      {
+       "gameStatus": "WON",
       "team1": "PHOENIX",
       "vs": "VS",
       "team2": "BLACKWATER",
       "date": "Fri Nov 23,2022 09:45pm"
     },
      {
+       "gameStatus": "LOSE",
       "team1": "TERRAFIRMA",
       "vs": "VS",
       "team2": "CONVERGE",
       "date": "Fri Nov 23,2022 09:45pm"
     },
      {
+       "gameStatus": "LOSE",
       "team1": "NORTHPORT",
       "vs": "VS",
       "team2": "SAN MIGUEL",
       "date": "Fri Nov 23,2022 09:45pm"
     },
      {
+       "gameStatus": "WON",
       "team1": "BRGY GINEBRA",
       "vs": "VS",
       "team2": "TNT",
       "date": "Fri Nov 23,2022 09:45pm"
-    },
-       {
-      "team1": "MAGNOLIA",
-      "vs": "VS",
-      "team2": "MERALCO",
-      "date": "Fri Nov 23,2022 09:45pm"
-    },
-     {
-      "team1": "CONVERGE",
-      "vs": "VS",
-      "team2": "PHOENIX",
-      "date": "Fri Nov 23,2022 09:45pm"
-    },
-      {
-      "team1": "BLACKWATER",
-      "vs": "VS",
-      "team2": "TERRAFIRMA",
-      "date": "Fri Nov 23,2022 09:45pm"
-    },
-     {
-      "team1": "BRGY GINEBRA",
-      "vs": "VS",
-      "team2": "NLEX",
-      "date": "Fri Nov 23,2022 09:45pm"
-    },
-     {
-      "team1": "MERALCO",
-      "vs": "VS",
-      "team2": "BRGY. GINEBRA",
-      "date": "Fri Nov 23,2022 09:45pm"
-    },
-     {
-      "team1": "SAN MIGUEL",
-      "vs": "VS",
-      "team2": "BLACKWATER",
-      "date": "Fri Nov 23,2022 09:45pm"
-    },
-        {
-      "team1": "SAN MIGUEL",
-      "vs": "VS",
-      "team2": "TNT",
-      "date": "Fri Nov 22,2022 09:45pm"
-    },
-    {
-      "team1": "GINEBRA",
-      "vs": "VS",
-      "team2": "BOLTS",
-      "date": "Fri Nov 23,2022 09:45pm"
-    },
-     {
-      "team1": "PHOENIX",
-      "vs": "VS",
-      "team2": "BLACKWATER",
-      "date": "Fri Nov 23,2022 09:45pm"
-    },
-     {
-      "team1": "TERRAFIRMA",
-      "vs": "VS",
-      "team2": "CONVERGE",
-      "date": "Fri Nov 23,2022 09:45pm"
-    },
-        {
-      "team1": "NORTHPORT",
-      "vs": "VS",
-      "team2": "SAN MIGUEL",
-      "date": "Fri Nov 23,2022 09:45pm"
-    },
-     {
-      "team1": "BRGY GINEBRA",
-      "vs": "VS",
-      "team2": "TNT",
-      "date": "Fri Nov 23,2022 09:45pm"
-    },
-       {
-      "team1": "MAGNOLIA",
-      "vs": "VS",
-      "team2": "MERALCO",
-      "date": "Fri Nov 23,2022 09:45pm"
-    },
-     {
-      "team1": "CONVERGE",
-      "vs": "VS",
-      "team2": "PHOENIX",
-      "date": "Fri Nov 23,2022 09:45pm"
-    },
-      {
-      "team1": "BLACKWATER",
-      "vs": "VS",
-      "team2": "TERRAFIRMA",
-      "date": "Fri Nov 23,2022 09:45pm"
-    },
-     {
-      "team1": "BRGY GINEBRA",
-      "vs": "VS",
-      "team2": "NLEX",
-      "date": "Fri Nov 23,2022 09:45pm"
-    },
-     {
-      "team1": "SAN MIGUEL",
-      "vs": "VS",
-      "team2": "TNT",
-      "date": "Fri Nov 22,2022 09:45pm"
-    },
-    {
-      "team1": "GINEBRA",
-      "vs": "VS",
-      "team2": "BOLTS",
-      "date": "Fri Nov 23,2022 09:45pm"
-    },
-     {
-      "team1": "PHOENIX",
-      "vs": "VS",
-      "team2": "BLACKWATER",
-      "date": "Fri Nov 23,2022 09:45pm"
-    },
-     {
-        "team1": "GaayPotato",
-      "vs": "VS",
-      "team2": "Kekingkyaws",
-      "date": "Sat February 22, 2019 09:45pm"
-    },
-     {
-      "team1": "",
-      "vs": "",
-      "team2": "",
-      "date": ""
-    }, 
-    {
-      "team1": "",
-      "vs": "",
-      "team2": "",
-      "date": ""
-    }, 
-     {
-      "team1": "",
-      "vs": "",
-      "team2": "",
-      "date": ""
-    }, 
-     {
-      "team1": "",
-      "vs": "",
-      "team2": "",
-      "date": ""
-    }
-   
-
-   
+     }
+ 
 
     ]
     
