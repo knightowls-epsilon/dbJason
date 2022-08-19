@@ -39,21 +39,20 @@
   ], 
   
    "BestPlayer": [
-    {
+    { 
+      "picture": "PICTURE1",
       "player": "KekingkyawZ",
       "rank": "01"
     },
      {
+       "picture": "PICTURE2",
       "player": "GaayPotato",
       "rank": "02"
     },
      {
+      "picture": "PICTURE3",
       "player": "Knightowls-Epsilon",
       "rank": "03"
-    },
-     {
-      "player": "Knightowls-Zeta",
-      "rank": "04"
     }
    
   ],
@@ -136,7 +135,7 @@
       "date": "Fri Nov 22,2022 09:45pm"
     },
       {
-       "gameStatus": "PENDING",
+      "gameStatus": "PENDING",
       "team1": "GINEBRA",
       "vs": "VS",
       "team2": "BOLTS",
